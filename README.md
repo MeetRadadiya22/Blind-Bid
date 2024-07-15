@@ -6,7 +6,8 @@ The Blind Bid program enables multiple bidders to submit their highest bids anon
 
 1. *Start the Program:*
    - Run the script to start the program.
-    ![1](https://github.com/user-attachments/assets/02f3a2b4-4405-4ced-b985-d29bcccae80f)
+
+     ![1](https://github.com/user-attachments/assets/02f3a2b4-4405-4ced-b985-d29bcccae80f)
 
 
 2. *Enter Participant Information:*
